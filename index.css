@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    margin: 0;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+}
+img{
+height: 120px;
+width: 280px;
+
+}
+
+.metodos {
+    margin-top: 30px;
+}
+
+button {
+    margin-left: 5px;
+}
+
+input {
+    margin-top: 10px;
+}
